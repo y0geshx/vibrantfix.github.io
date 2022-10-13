@@ -1,0 +1,16 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Vibrantifix'
+theme = 'congo'
+
+[author]
+  name = "Yogesh"
+  image = "img/author.jpg"
+  headline = "I hope you will find what you're looking for ---<--{(@"
+  bio = "I hope you will find what you're looking for ---<--{(@"
+  links = [
+    { github = "https://github.com/" },
+    { twitter = "https://twitter.com/" },
+    { gitlab = "https://gitlab.com/" },
+    { telegram = "https://telegram.com/" },
+  ]

@@ -9,8 +9,8 @@ theme = 'congo'
   headline = "I hope you will find what you're looking for ---<--{(@"
   bio = "I hope you will find what you're looking for ---<--{(@"
   links = [
-    { github = "https://github.com/" },
-    { twitter = "https://twitter.com/" },
+    { github = "https://github.com/vibrantifix" },
+    { link = "https://vibrantifix.github.io/" },
     { gitlab = "https://gitlab.com/" },
     { telegram = "https://telegram.com/" },
   ]

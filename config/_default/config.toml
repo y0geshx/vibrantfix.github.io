@@ -11,3 +11,16 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+
+[author]
+  name = "Yogesh"
+  image = "img/author.jpg"
+  headline = "Hello Friend, welcome to my website ---<--{(@"
+  bio = "I hope you will find what you're looking for ---<--{(@"
+  links = [
+    { github = "https://github.com/vibrantifix" },
+    { link = "https://vibrantifix.github.io/" },
+    { gitlab = "https://gitlab.com/" },
+    { telegram = "https://t.me/vibrantifix" },
+  ]

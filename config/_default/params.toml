@@ -11,9 +11,10 @@ autoSwitchAppearance = true
 
 enableSearch = true
 enableCodeCopy = true
+logo = "logo.png"
 
 mainSections = ["samples"]
-# robots = ""
+# robots = "index, follow"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, custom
@@ -35,7 +36,7 @@ mainSections = ["samples"]
   showBreadcrumbs = true
   showDraftLabel = true
   showEdit = true
-  editURL = "https://github.com/jpanther/congo/tree/dev/exampleSite/content/"
+  editURL = "https://github.com/vibrantifix/vibrantifix.github.io/tree/main/content/"
   editAppendPath = true
   showHeadingAnchors = true
   showPagination = true

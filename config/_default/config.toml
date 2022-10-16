@@ -15,7 +15,7 @@ summaryLength = 0
 
 [author]
   name = "Yogesh"
-  image = "img/author.jpg"
+# image = "img/author.jpg"
   headline = "Hello Friend, welcome to my website ---<--{(@"
   bio = "I hope you will find what you're looking for ---<--{(@"
   links = [

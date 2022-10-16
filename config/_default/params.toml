@@ -14,7 +14,7 @@ enableCodeCopy = true
 logo = "logo.png"
 
 mainSections = ["samples"]
-# robots = "index, follow"
+ robots = "index, follow"
 
 [header]
   layout = "basic" # valid options: basic, hamburger, custom

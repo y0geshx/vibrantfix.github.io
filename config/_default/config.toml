@@ -16,7 +16,7 @@ summaryLength = 0
 [author]
   name = "Yogesh"
   image = "img/author.jpg"
-  headline = "Hello Friend, welcome to my website---<--{(@"
+  headline = "Hello Friend, welcome to my website ---<--{(@"
   bio = "I hope you will find what you're looking for "
   links = [
     { github = "https://github.com/vibrantifix" },

@@ -9,4 +9,6 @@ I am Yogesh. I am just a guy, who loves computers, softwares and music. But most
 
 ![](0001.gif)
 
-### This place is home for all my psychological dysfunctioning and serves as personal blog.
+{{< lead >}}
+### This place is home for all my psychological dysfunctioning and serves as personal blog. :black_heart:
+{{< /lead >}}

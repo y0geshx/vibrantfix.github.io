@@ -7,7 +7,7 @@
 
 colorScheme = "congo"
 defaultAppearance = "dark" # valid options: light or dark
-autoSwitchAppearance = true
+autoSwitchAppearance = false
 
 enableSearch = true
 enableCodeCopy = true
@@ -17,7 +17,7 @@ mainSections = ["samples"]
  robots = "index, follow"
 
 [header]
-  layout = "basic" # valid options: basic, hamburger, custom
+  layout = "custom" # valid options: basic, hamburger, custom
 
 [footer]
   showCopyright = true

@@ -12,3 +12,7 @@ I am Yogesh. I am just a guy, who loves computers, softwares and music. But most
 {{< lead >}}
 ### This place is home for all my psychological dysfunctioning and serves as personal blog. :black_heart:
 {{< /lead >}}
+
+{{< button href="/about/" target="_self" >}}
+More about me
+{{< /button >}}

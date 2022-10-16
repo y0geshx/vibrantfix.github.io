@@ -6,4 +6,4 @@ featured_image: author.jpg
 
 I am Yogesh. I am just a guy, who loves computers, softwares and music.
 
-{{< figure src="author.jpg" width="200" height="400" >}}
+![](author.jpg =250x250)

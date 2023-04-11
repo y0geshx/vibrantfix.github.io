@@ -12,7 +12,7 @@
   
 [[main]]
   name = "Home"
-  url = "https://vibrantifix.github.io"
+  url = "https://vibrantfix.github.io"
   weight = 10
 
 [[main]]
@@ -22,7 +22,7 @@
 
 [[main]]
   name = "GitHub"
-  url = "https://github.com/vibrantifix"
+  url = "https://github.com/vibrantfix"
   weight = 30
 
 [[main]]

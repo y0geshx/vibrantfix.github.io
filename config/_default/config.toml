@@ -19,8 +19,8 @@ summaryLength = 0
   headline = "Hello Friend, welcome to my website ---<--{(@"
   bio = "I hope you will find what you're looking for "
   links = [
-    { github = "https://github.com/vibrantifix" },
-    { link = "https://vibrantifix.github.io/" },
+    { github = "https://github.com/vibrantfix" },
+    { link = "https://vibrantfix.github.io/" },
     { gitlab = "https://gitlab.com/" },
-    { telegram = "https://t.me/vibrantifix" },
+    { telegram = "https://t.me/vibrantfix" },
   ]
